@@ -1,6 +1,6 @@
 # :bangbang: Discord Bot in Python :bangbang:
 
-This code is purely for training purposes. This discord bot will soon arrive on youtube as a course by a youtuber named "Zer0_Ping"
+This code is purely made for training purposes. This discord bot will soon arrive on youtube as a course by a youtuber named "Zer0_Ping"
 
 # Information
 This is an intermediate level discord bot coded in python using the library "discord.py" Version 1.4.1
