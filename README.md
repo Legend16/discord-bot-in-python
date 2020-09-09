@@ -29,6 +29,11 @@ This is an intermediate level discord bot coded in python using the library "dis
 
 - Rock, Paper, Scissors
 
+## Funny
+
+- meme
+- joke
+
 ## Insult
 
 - insult
