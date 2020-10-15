@@ -51,8 +51,6 @@ Those are all the commands and Cogs for this bot.
 PREFIX = "."
 
 # Note
-
-- This Code will stay up to date
 - You are allowed to download this repository but keep in mind that I am the rightful owner of this code!
 
 ```
